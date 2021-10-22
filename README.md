@@ -1,5 +1,6 @@
-Hola Muy Buenos Dias, 
-Me llamo Igor Sanchez, hace un tiempo que vengo fabricando productos 
+Hola Muy Buenos Dias
+
+-Me llamo Igor Sanchez, hace un tiempo que vengo fabricando productos 
 de automatizacion y seguridad , industrial y residencial, y pensando
 en contribuir a mis futuros colegas he decidido agrupar material que 
 he desarrollado y utilizado a lo largo de mi carrera como lo son:
